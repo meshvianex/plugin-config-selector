@@ -1,1 +1,1 @@
-# plugin-config-selecto
+# plugin-config-selector
